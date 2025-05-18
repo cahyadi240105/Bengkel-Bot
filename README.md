@@ -23,11 +23,13 @@ Pengguna cukup mengisi formulir gejala kendaraan yang dialami. Sistem akan mempr
 Untuk menjalankan proyek ini secara lokal:
 * Clone atau unduh repositori ini.
 * Buka file index.html di browser untuk menampilkan antarmuka pengguna.
-* Jalankan file jika anda ingin menggunakan Python (diagnosis.py) jika terdapat backend untuk logika sistem pakar.
+* Jalankan file jika anda ingin menggunakan Python.
 
 ## Struktur Folder
+```bash
 bengkelbot/
 ├── index.html
 ├── style.css
 ├── script.js
 └── diagnosis.py
+```
